@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\bin\Debug\net6.0\BigO.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\bin\Debug\net6.0\BigO.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\bin\Debug\net6.0\BigO.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\bin\Debug\net6.0\BigO.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\bin\Debug\net6.0\BigO.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\refint\BigO.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\BigO.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\obj\Debug\net6.0\ref\BigO.dll
