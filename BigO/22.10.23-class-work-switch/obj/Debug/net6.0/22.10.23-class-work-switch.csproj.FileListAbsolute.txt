@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\bin\Debug\net6.0\22.10.23-class-work-switch.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\bin\Debug\net6.0\22.10.23-class-work-switch.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\bin\Debug\net6.0\22.10.23-class-work-switch.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\bin\Debug\net6.0\22.10.23-class-work-switch.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\bin\Debug\net6.0\22.10.23-class-work-switch.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\refint\22.10.23-class-work-switch.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\22.10.23-class-work-switch.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\BigO\22.10.23-class-work-switch\obj\Debug\net6.0\ref\22.10.23-class-work-switch.dll
