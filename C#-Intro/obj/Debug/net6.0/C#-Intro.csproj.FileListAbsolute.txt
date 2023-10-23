@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\bin\Debug\net6.0\C#-Intro.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\bin\Debug\net6.0\C#-Intro.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\bin\Debug\net6.0\C#-Intro.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\bin\Debug\net6.0\C#-Intro.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\bin\Debug\net6.0\C#-Intro.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\refint\C#-Intro.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\C#-Intro.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Intro\obj\Debug\net6.0\ref\C#-Intro.dll
